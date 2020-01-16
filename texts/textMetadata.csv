@@ -1,23 +1,23 @@
 ﻿File Name,Title,Year,Monarch,Type
-RoyalProclamation_HenryVIII_1520.txt,Royal Proclamation,1520,Henry VIII,Crown
-TheActOfSupremacy_HenryVIII_1534.txt,The Act of Supremacy,1534,Henry VIII,Crown
-SacramentAct_EdwardVI_1547.txt,Sacrament Act,1547,Edward VI,Crown
-EdwardVItoBishops2_Edward_1551.txt,Edward V to Bishops Second Edition,1551,Edward VI,Crown
-EdwardVItoBishops_Edward_1551.txt,Edward V to Bishops,1551,Edward VI,Crown
-RepealofEdwardVI_MaryI_1553.txt,Repeal of Edward VI,1553,Mary I,Crown
-Proclamation_MaryI_1553.txt,Proclamation,1553,Mary I,Crown
-MaryTudortoPrivyCouncil_Mary_1554.txt,Mary Tudor to the Privy Council,1554,Mary I,Crown
-NoIdeaWhatThisIs_MaryI_1554.txt,Proclamation Against Non-Citizens,1554,Mary I,Crown
-QueenElizabethsProclamationtoForbidPreaching_Elizabeth_1558.txt,Proclamation to Forbid Preaching,1558,Elizabeth I,Crown
-ElizabethsActofUniformity_Elizabeth_1559.txt,Act of Uniformity,1559,Elizabeth I,Crown
-ElizabethsSupremacyAct_Elizabeth_1559.txt,Supremacy Act,1559,Elizabeth I,Crown
-TheInjunctionsof1559_Elizabeth_1559.txt,The Injunctions of 1559,1559,Elizabeth I,Crown
-TheSubscriptionAct_Elizabeth_1571.txt,The Subscription Act,1571,Elizabeth I,Crown
-TheActAgainstPuritans_Elizabeth_1593.txt,The Act Against Puritans,1593,Elizabeth I,Crown
-TheActAgainstRecusants_Elizabeth_1593.txt,The Act Against Recusants,1593,Elizabeth I,Crown
-James'ProclamationForTheUseOfTheBookOfCommonPrayer_JamesI_1604.txt,Proclamation For The Use of the Book of Common Prayer,1604,James I,Crown
-DirectionConcerningPreachers_JamesI_1622.txt,Direction Concerning Preachers,1622,James I,Crown
-TheKing'sDeclarationPrefixedToTheArticlesOfReligion_CharlesI_1628.txt,Declaration Prefixed to the Articles of Religion,1628,Charles I,Crown
-TheKing'sMajesty'sDeclarationToHisSubjectsConcerningLawfulSportsToBeUsed_CharlesI_1633.txt,Declaration to his Subjects Concerning Lawful Sports to be Used,1633,Charles I,Crown
-CommonBookOfPrayer1662.txt,Common Book of Prayer,1662,Charles II,Church
-KingJamesBible_JamesI_1611.txt,King James Bible,1611,James I,Church
+crown/RoyalProclamation_HenryVIII_1520.txt,Royal Proclamation,1520,Henry VIII,Crown
+crown/TheActOfSupremacy_HenryVIII_1534.txt,The Act of Supremacy,1534,Henry VIII,Crown
+crown/SacramentAct_EdwardVI_1547.txt,Sacrament Act,1547,Edward VI,Crown
+crown/EdwardVItoBishops2_Edward_1551.txt,Edward V to Bishops Second Edition,1551,Edward VI,Crown
+crown/EdwardVItoBishops_Edward_1551.txt,Edward V to Bishops,1551,Edward VI,Crown
+crown/RepealofEdwardVI_MaryI_1553.txt,Repeal of Edward VI,1553,Mary I,Crown
+crown/Proclamation_MaryI_1553.txt,Proclamation,1553,Mary I,Crown
+crown/MaryTudortoPrivyCouncil_Mary_1554.txt,Mary Tudor to the Privy Council,1554,Mary I,Crown
+crown/NoIdeaWhatThisIs_MaryI_1554.txt,Proclamation Against Non-Citizens,1554,Mary I,Crown
+crown/QueenElizabethsProclamationtoForbidPreaching_Elizabeth_1558.txt,Proclamation to Forbid Preaching,1558,Elizabeth I,Crown
+crown/ElizabethsActofUniformity_Elizabeth_1559.txt,Act of Uniformity,1559,Elizabeth I,Crown
+crown/ElizabethsSupremacyAct_Elizabeth_1559.txt,Supremacy Act,1559,Elizabeth I,Crown
+crown/TheInjunctionsof1559_Elizabeth_1559.txt,The Injunctions of 1559,1559,Elizabeth I,Crown
+crown/TheSubscriptionAct_Elizabeth_1571.txt,The Subscription Act,1571,Elizabeth I,Crown
+crown/TheActAgainstPuritans_Elizabeth_1593.txt,The Act Against Puritans,1593,Elizabeth I,Crown
+crown/TheActAgainstRecusants_Elizabeth_1593.txt,The Act Against Recusants,1593,Elizabeth I,Crown
+crown/James'ProclamationForTheUseOfTheBookOfCommonPrayer_JamesI_1604.txt,Proclamation For The Use of the Book of Common Prayer,1604,James I,Crown
+crown/DirectionConcerningPreachers_JamesI_1622.txt,Direction Concerning Preachers,1622,James I,Crown
+crown/TheKing'sDeclarationPrefixedToTheArticlesOfReligion_CharlesI_1628.txt,Declaration Prefixed to the Articles of Religion,1628,Charles I,Crown
+crown/TheKing'sMajesty'sDeclarationToHisSubjectsConcerningLawfulSportsToBeUsed_CharlesI_1633.txt,Declaration to his Subjects Concerning Lawful Sports to be Used,1633,Charles I,Crown
+church/CommonBookOfPrayer1662.txt,Common Book of Prayer,1662,Charles II,Church
+church/KingJamesBible_JamesI_1611.txt,King James Bible,1611,James I,Church
