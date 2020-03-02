@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Henry VIII",
+      "tensorName": "Mary I",
       "tensorShape": [
         1000,
         50
