@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Henry VIII",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath":   "https://raw.githubusercontent.com/catherinedparnell/Cultural-Analytics-IS/master/tensors/eebo-henry_VIII_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/catherinedparnell/Cultural-Analytics-IS/master/tensors/eebo-henry_VIII_metadata.tsv"
+    }
+  ]
+}
+
